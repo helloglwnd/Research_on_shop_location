@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Coursera capstone project 
+# Research project
+In this project I'm researching the best location for a skateshop based on London demographics data 
